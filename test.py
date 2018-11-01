@@ -1,1 +1,1 @@
-print("MG")
+print("MGya")
